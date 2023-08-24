@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on generative AI services
+- 🌱 I’m currently learning percentage similarity, AI inference, distributed dynamic scaling
+- 💬 Ask me about fullstack engineering, generative AI
+- 📫 How to reach me: davelee@nyu.edu
+- 😄 Pronouns: he/him/his
+
 <!--
 **daveleee/daveleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
