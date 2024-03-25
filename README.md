@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on generative AI services
-- 🌱 I’m currently learning Pinecone, Forward-Looking Active REtrieval augmented generation (FLARE) / Chrome Extensions, Next.js, Percentage Similarity, AI inference, Distributed Dynamic Scaling.
-- 💬 Ask me about fullstack engineering, generative AI
+- 🔭 I’m currently working on generative AI services at the finance sector.
+- 🌱 I’m currently learning Generative AI, Pinecone, Forward-Looking Active REtrieval augmented generation (FLARE), Percentage Similarity, AI inference, Distributed Dynamic Scaling.
+- 💬 Ask me about generative AI and fullstack engineering.
 - 📫 How to reach me: davelee@nyu.edu
 - 😄 Pronouns: he/him/his
 
