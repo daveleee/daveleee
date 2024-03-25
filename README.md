@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on generative AI services at the finance sector.
+- 🔭 I’m currently working on generative AI services in the finance sector.
 - 🌱 I’m currently learning Generative AI, Pinecone, Forward-Looking Active REtrieval augmented generation (FLARE), Percentage Similarity, AI inference, Distributed Dynamic Scaling.
 - 💬 Ask me about generative AI and fullstack engineering.
 - 📫 How to reach me: davelee@nyu.edu
