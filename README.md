@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AI/ML services in the finance sector.
-- 🌱 I’m currently learning Agentic AI, Generative AI, Pinecone, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), SHapley Additive exPlanations (SHAP), Forward-Looking Active REtrieval augmented generation (FLARE), Percentage Similarity, AI inference, Distributed Dynamic Scaling.
+- 🌱 I’m currently learning:
+-     Temporal Knowledge Graph (TKG)
+-     Knowledge Augmented Generation (KAG)
+-     Agentic AI (OpenClaw)
+-     Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
+-     Forward-Looking Active REtrieval augmented generation (FLARE)
+-     AI inference
+-     Distributed Dynamic Scaling
 - 💬 Ask me about AI/ML, and fullstack engineering.
 - 📫 How to reach me: davelee@nyu.edu
 - 😄 Pronouns: he/him/his
