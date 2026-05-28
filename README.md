@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning:
   - Temporal Knowledge Graph (TKG)
   - Knowledge Augmented Generation (KAG)
-  - Agentic AI (OpenClaw)
+  - Agentic AI (OpenClaw, CrewAI, LangGraph, AgentBuilder)
   - Corrective RAG System (https://www.analyticsvidhya.com/blog/2024/07/building-agentic-rag-systems-with-langgraph/) (https://arxiv.org/pdf/2401.15884)
   - Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
   - Forward-Looking Active REtrieval augmented generation (FLARE)
